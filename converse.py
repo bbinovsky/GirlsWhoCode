@@ -10,6 +10,9 @@
 # http://code-junkies.org/hackathon/sdks/oneapp-buddy-sdk-1.0.0.tar.gz
 # http://code-junkies.org/hackathon/sdks/oneapp.js
 
+# Here are Python string examples:
+# http://www.pythonforbeginners.com/basics/string-manipulation-in-python
+
 # Converse the local Q&A program example.
 # Author: Brian Binovsky
 # Date:   1-16-2016
